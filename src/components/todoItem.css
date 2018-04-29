@@ -1,0 +1,17 @@
+.todoWrapper {
+    border-bottom: 1px solid gray;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.removeTodo {
+    background-color: transparent;
+    border: 1px solid red;
+    margin-bottom: 10px;
+    margin-right: 20px;
+    padding: 5px;
+}
+.removeTodo:hover {
+    background-color: red;
+    color: whitesmoke;
+    cursor: pointer;
+}

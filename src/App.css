@@ -1,0 +1,19 @@
+.App {
+  font-family: 'Nunito', sans-serif;
+  text-align: center;
+}
+.todo-wrapper {
+  background-color: whitesmoke;
+  border: 5px ridge slateblue;
+  margin: 20px auto 20px auto;
+  min-height: 600px;
+  padding: 20px;
+  width: 500px;
+}
+.todo-wrapper h1 {
+  color: slateblue;
+  font-weight: 600;
+}
+ul {
+  padding: 5px;
+}
